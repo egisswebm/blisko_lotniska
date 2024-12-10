@@ -1,2 +1,2 @@
-# Materiały dla marki [Blisko Lotniska](bliskolotniska.pl)
-Poniższe repozytorium stanowi bibliotekę zasobów cyfrowych Parkingu Blisko Lotniska, udostępniającym przestrzeń kierowcom w pobliżu lotniska Okęcie.
+# Materiały dla marki Blisko Lotniska
+Poniższe repozytorium stanowi bibliotekę zasobów cyfrowych Parkingu [Blisko Lotniska](https://bliskolotniska.pl/), udostępniającym przestrzeń kierowcom w pobliżu lotniska Okęcie.
